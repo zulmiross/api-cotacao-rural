@@ -1,12 +1,14 @@
 {
-  name: "Boi Gordo",
-  price: "125.70"
-},
-{
-  name: "Café",
-  price: "12.70"
-},
-{
-  name: "Cacau",
-  price: "825.70"
+  {
+    name: "Boi Gordo",
+    price: "125.70"
+  },
+  {
+    name: "Café",
+    price: "12.70"
+  },
+  {
+    name: "Cacau",
+    price: "825.70"
+  }
 }
