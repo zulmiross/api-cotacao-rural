@@ -1,4 +1,4 @@
-data[
+{
   {
     name: "Boi Gordo",
     price: "125.70"
@@ -11,4 +11,4 @@ data[
     name: "Cacau",
     price: "825.70"
   }
-]
+}
