@@ -1,14 +1,6 @@
 {
-  {
-    name: "Boi Gordo",
-    price: "125.70"
-  },
-  {
-    name: "Café",
-    price: "12.70"
-  },
-  {
-    name: "Cacau",
-    price: "825.70"
-  }
-}
+  "titulo": "JSON",
+  "resumo": "o duelo de dois modelos de representação de informações",
+  "ano": 2012,
+  "genero": ["aventura", "ação”, "ficção"]
+ }
